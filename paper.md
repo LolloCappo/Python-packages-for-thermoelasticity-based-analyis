@@ -23,9 +23,11 @@ Thermoelasticity is a growing measurement techinque based on the thermoelastic e
 
 # Statement of need 
 As already said, the thermoelastic principle relates the elastic properties of a material and its surface-temperature changes, as shown from \autoref{eqtsa_0}:
+
 \begin{equation}\label{eqtsa_0}
     \rho\, C_\sigma \frac{\Delta T}{T_0} = -\alpha\,\left(\Delta \sigma_x+\Delta \sigma_y+\Delta \sigma_z\right)
 \end{equation}
+
 In order to open sfmov file extension saved from the thermal camera software, `pySFMOV` package has been published. It allows to get the raw data and the meta data informations from the acquisition files. Install it via pip using:
 ```python
     $ pip install pySFMOV
@@ -36,9 +38,11 @@ informations from the noise inherent into the techinque. Install it via pip usin
     $ pip install pyLIA
 ```	
 To allow the identification of the thermoelastic coefficient, thorugh different ways, `ThermCoeff` module has been developed: coefficients of standard materials are given from literature, but also classic strain-gauge calibration procedure is available, as shown from \autoref{eqkm}:
+
 \begin{equation}\label{eqkm}
     K_m = - \frac{\alpha\,T_0}{\rho\,C_\sigma} = \frac{\Delta T_{avg}\,(1-\nu)}{E\,\Delta \epsilon}
 \end{equation}
+
 Install it via pip using:
 ```python
     $ pip install ThermCoeff

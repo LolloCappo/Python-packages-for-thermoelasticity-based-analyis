@@ -1,6 +1,5 @@
 # Python packages for thermoelasticity based analysis
 
-tags
   - Python
   - Thermoelasticity
   - Structural dynamics
@@ -8,16 +7,12 @@ tags
   - Lock-in amplifier
   - Thermal camera
 
-authors
-  - name Lorenzo Capponi
+## Authors
+  - Lorenzo Capponi
+    PhD student at CISAS G. Colombo, University of Padova, Italy
     orcid 0000-0002-1333-9930
-    affiliation 1
 
-affiliations
- - PhD student at CISAS G. Colombo, University of Padova, Italy
-   index 1
-
-date 11 August 2020
+Date: 11 August 2020
 bibliography paper.bib
 
 ---

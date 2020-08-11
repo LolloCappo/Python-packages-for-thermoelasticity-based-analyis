@@ -1,26 +1,24 @@
 ---
 title: 'Python packages for thermoelasticity-based analysis'
-
 tags:
   - Python
   - Thermoelasticity
   - Vibration fatigue
   - Lock-in amplifier
   - Thermal camera
-
 authors:
   - name: Lorenzo Capponi
     orcid 0000-0002-1333-9930
     affiliation: 1
-
 affiliations:
-  - name: CISAS G. Colombo, University of Padova, Italy 
-
+  - name: CISAS G. Colombo, University of Padova, Italy
+  - index: 1 
 date: 11 August 2020
 bibliography: paper.bib
 ---
 
 # Summary
+
 Thermoelasticity is a growing measurement techinque based on the thermoelastic effect, discovered by Weber [@Weber1830] in the 1830 and analytically described by Thomson [@Thomson1853] in the 1853. If a structure is cyclically excited, its surface-temperature response variations are proportional to the change in the stress- and strain-tensor traces [@Thomson1853]. As a non-contact, full-field and image-based measurement technique, multiple applications of thermoelasticity have been developed in recent years, as non-destructive testing [@Guo2015], defects and material properties identification [@Allevi2019], stress-intensity factor definition and residual fatigue-life estimation [@Li2012][@Capponi2020]. Due to this, four different python packages have been developed in order to allow to easily perform thermoelasticity-based data manipulation procedures.
 
 # Statement of need 

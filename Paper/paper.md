@@ -33,7 +33,7 @@ In order to open sfmov file extension saved from the thermal camera software, `p
     $ pip install pySFMOV
 ```	
 In order to perform a digital lock-in analysis, `pyLIA` has been also released. It is necessary as preliminary step in order to single out the 
-informations from the noise inherent into the techinque. Install it via pip using:
+informations from the noise inherent into the techinque `[@Montanini:2020]`. Install it via pip using:
 ```python
     $ pip install pyLIA
 ```	

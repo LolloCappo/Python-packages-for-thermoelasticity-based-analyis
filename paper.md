@@ -3,32 +3,21 @@
 title 'Gala A Python package for galactic dynamics'
 tags
   - Python
-  - astronomy
-  - dynamics
-  - galactic dynamics
-  - milky way
+  - Thermoelasticity
+  - Structural dynamics
+  - Vibration fatigue
+  - Lock-in amplifier
+  - Thermal camera
 authors
-  - name Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
-    orcid 0000-0003-0872-7098
-    affiliation 1, 2 # (Multiple affiliations must be quoted)
-  - name Author Without ORCID
-    affiliation 2
-  - name Author with no affiliation
-    affiliation 3
+  - name Lorenzo Capponi
+    orcid 0000-0002-1333-9930
+    affiliation 1
 affiliations
- - name Lyman Spitzer, Jr. Fellow, Princeton University
+ - PhD student at CISAS G. Colombo, University of Padova, Italy
    index 1
- - name Institution Name
-   index 2
- - name Independent Researcher
-   index 3
-date 13 August 2017
+date 11 August 2020
 bibliography paper.bib
 
-# Optional fields if submitting to a AAS journal too, see this blog post
-# httpsblog.joss.theoj.org201812a-new-collaboration-with-aas-publishing
-aas-doi 10.3847xxxxx - update this with the DOI from AAS once you know it.
-aas-journal Astrophysical Journal - The name of the AAS journal.
 ---
 
 # Summary

@@ -1,5 +1,6 @@
-# Python packages for thermoelasticity based analysis
+title: 'Python packages for thermoelasticity based analysis'
 
+tags:
   - Python
   - Thermoelasticity
   - Structural dynamics
@@ -7,15 +8,17 @@
   - Lock-in amplifier
   - Thermal camera
 
-## Author
-Lorenzo Capponi, PhD student at CISAS G. Colombo, University of Padova, Italy (orcid 0000-0002-1333-9930)
-
-Date: 11 August 2020
-bibliography paper.bib
-
+authors:
+  - name: Lorenzo Capponi
+    orcid 0000-0002-1333-9930
+    affiliation: 1
+affiliations:
+  - name: CISAS G. Colombo, University of Padova, Italy 
+date: 11 August 2020
+bibliography: paper.bib
 ---
 
-## Summary
+# Summary
 
 The forces on stars, galaxies, and dark matter under external gravitational
 fields lead to the dynamical evolution of structures in the universe. The orbits
@@ -94,7 +97,6 @@ for n in range(10)
 
 # Acknowledgements
 
-We acknowledge contributions from Brigitta Sipocz, Syrtis Major, and Semyeong
-Oh, and support from Kathryn Johnston during the genesis of this project.
+I acknowledge contributions from Janko Slavič, Domen Gorjup and Klemen Zaletelj during the genesis of this project.
 
 # References

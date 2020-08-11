@@ -7,10 +7,8 @@
   - Lock-in amplifier
   - Thermal camera
 
-## Authors
-  - Lorenzo Capponi
-    PhD student at CISAS G. Colombo, University of Padova, Italy
-    orcid 0000-0002-1333-9930
+## Author
+Lorenzo Capponi, PhD student at CISAS G. Colombo, University of Padova, Italy (orcid 0000-0002-1333-9930)
 
 Date: 11 August 2020
 bibliography paper.bib

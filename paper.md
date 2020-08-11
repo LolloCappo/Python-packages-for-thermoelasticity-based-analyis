@@ -1,6 +1,5 @@
----
+# Python packages for thermoelasticity based analysis
 
-title 'Gala A Python package for galactic dynamics'
 tags
   - Python
   - Thermoelasticity
@@ -8,19 +7,22 @@ tags
   - Vibration fatigue
   - Lock-in amplifier
   - Thermal camera
+
 authors
   - name Lorenzo Capponi
     orcid 0000-0002-1333-9930
     affiliation 1
+
 affiliations
  - PhD student at CISAS G. Colombo, University of Padova, Italy
    index 1
+
 date 11 August 2020
 bibliography paper.bib
 
 ---
 
-# Summary
+## Summary
 
 The forces on stars, galaxies, and dark matter under external gravitational
 fields lead to the dynamical evolution of structures in the universe. The orbits

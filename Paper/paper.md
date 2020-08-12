@@ -12,6 +12,7 @@ authors:
     affiliation: 1
 affiliations:
   - name: CISAS G. Colombo, University of Padova, Italy
+  - index: 1
 date: 11 August 2020
 bibliography: paper.bib
 ---

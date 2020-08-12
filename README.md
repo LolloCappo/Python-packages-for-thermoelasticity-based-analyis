@@ -1,4 +1,4 @@
-# Thermoelasticity-based-analysis-collection-of-python-packages
+# Thermoelasticity-based analysis: collection of python packages
 
 Thermoelasticity is a measurement techinque based on the thermoelastic effect, discovered by Weber in the 1830 and analytically described by Thomson in the 1853. If a structure is cyclically excited, its surface-temperature response variations are proportional to the change in the stress- and strain-tensor traces. As a non-contact, full-field and image-based measurement technique, multiple applications of thermoelasticity have been developed in recent years, as non-destructive testing, defects and material properties identification, stress-intensity factor definition and residual fatigue-life estimation. Due to this, four different python packages have been developed in order to allow to easily perform thermoelasticity-based data manipulation procedures.
 

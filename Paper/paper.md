@@ -1,5 +1,5 @@
 ---
-title: 'Python packages for thermoelasticity-based analysis'
+title: 'Thermoelasticity-based analysis: collection of python packages'
 tags:
   - Python
   - Thermoelasticity

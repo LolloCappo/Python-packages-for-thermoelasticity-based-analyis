@@ -24,7 +24,7 @@ Thermoelasticity is a measurement techinque based on the thermoelastic effect, d
 \rho\, C_\sigma \frac{\Delta T}{T_0} = -\alpha\,\left(\Delta \sigma_x+\Delta \sigma_y+\Delta \sigma_z\right)
 \end{equation}
 where $\rho$ is the material density, $C_\sigma$ is the specific heat at constant pressure, $T_0$ is the ambient temperature, $\Delta T$ is the temperature change, $\alpha$ is the thermal expansion coefficient and $\Delta \sigma_i$ are the stress tensor components.
-As a non-contact, full-field and image-based measurement technique, multiple applications of thermoelasticity have been developed in recent years, as non-destructive testing `[@Guo:2015]`, defects and material properties identification [@Allevi:2019], stress-intensity factor definition and residual fatigue-life estimation [@Li:2012][@Capponi:2020]. Due to this, four different python packages have been developed in order to allow to easily perform thermoelasticity-based data manipulation procedures.
+As a non-contact, full-field and image-based measurement technique, multiple applications of thermoelasticity have been developed in recent years, as non-destructive testing [@Guo:2015], defects and material properties identification [@Allevi:2019], stress-intensity factor definition and residual fatigue-life estimation [@Li:2012],[@Capponi:2020]. Due to this, four different python packages have been developed in order to allow to easily perform thermoelasticity-based data manipulation procedures.
 
 # Statement of need 
 

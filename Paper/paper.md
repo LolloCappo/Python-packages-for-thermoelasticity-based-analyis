@@ -19,7 +19,7 @@ bibliography: paper.bib
 
 # Summary
 
-Thermoelasticity is a measurement techinque based on the thermoelastic effect, discovered by Weber `[@Weber_1830]` in the 1830 and analytically described by Thomson `[@Thomson:1853]` in the 1853. If a structure is cyclically excited, its surface-temperature response variations are proportional to the change in the stress- and strain-tensor traces `[@Thomson_1853]`:
+Thermoelasticity is a measurement techinque based on the thermoelastic effect, discovered by Weber [@Weber:1830] in the 1830 and analytically described by Thomson `[@Thomson:1853]` in the 1853. If a structure is cyclically excited, its surface-temperature response variations are proportional to the change in the stress- and strain-tensor traces `[@Thomson:1853]`:
 \begin{equation}\label{eqtsa_0}
 \rho\, C_\sigma \frac{\Delta T}{T_0} = -\alpha\,\left(\Delta \sigma_x+\Delta \sigma_y+\Delta \sigma_z\right)
 \end{equation}

@@ -22,7 +22,10 @@ For the fatigue life estimation from thermal acquisitions, `IR_FLife` module has
 ```	
 
 Source code for pysfmov: https://github.com/LolloCappo/pysfmov
+
 Source code for pyLIA: https://github.com/LolloCappo/pyLIA
+
 Source code for ThermCoeff: https://github.com/LolloCappo/ThermCoeff
+
 Source code for IR_FLife: https://github.com/LolloCappo/IR_FLife
 

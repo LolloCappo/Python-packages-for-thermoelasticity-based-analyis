@@ -28,9 +28,9 @@ As already said, the thermoelastic principle relates the elastic properties of a
 \rho\, C_\sigma \frac{\Delta T}{T_0} = -\alpha\,\left(\Delta \sigma_x+\Delta \sigma_y+\Delta \sigma_z\right)
 \end{equation}
 
-In order to open sfmov file extension saved from the thermal camera software, `pySFMOV` package has been published. It allows to get the raw data and the meta data informations from the acquisition files. Install it via pip using:
+In order to open .sfmov file extension saved from the thermal camera software, `pysfmov` package has been published. It allows to get the raw data and the meta data informations from the acquisition files. Install it via pip using:
 ```python
-    $ pip install pySFMOV
+    $ pip install pysfmov
 ```	
 In order to perform a digital lock-in analysis, `pyLIA` has been also released. It is necessary as preliminary step in order to single out the 
 informations from the noise inherent into the techinque `[@Montanini:2020]`. Install it via pip using:

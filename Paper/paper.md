@@ -53,7 +53,7 @@ For the fatigue life estimation from thermal acquisitions, `IR_FLife` module has
 \end{equation}
 where the stress-amplitude spectrum~$\Delta \sigma_{i,j}(\omega_r)$ is defined as:
 \begin{equation}
-\Delta \sigma_{i,j}(\omega_r) = \mathscr{F}\Big{\{}\frac{\Delta T_{i,j}(t)}{K_m}\Big{\}}.
+\Delta \sigma_{i,j}(\omega_r) = \textit{F}\Big{\{}\frac{\Delta T_{i,j}(t)}{K_m}\Big{\}}.
 \end{equation}
 Due to the fact that the modal-damage-intensity method relies on the modal information at the natural frequency, the uncertainty is significantly reduced, if compared to classic spectral methods. More importantly, the damage intensity can be decomposed to particular mode shapes. With the modal damage information, the source of the damage is clearly revealed. Install it via pip using:
 ```python

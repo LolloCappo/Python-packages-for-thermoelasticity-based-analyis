@@ -8,7 +8,7 @@ tags:
   - Thermal camera
 authors:
   - name: Lorenzo Capponi
-    orcid 0000-0002-1333-9930
+    orcid: 0000-0002-1333-9930
     affiliation: 1
 affiliations:
   - name: CISAS G. Colombo, University of Padova, Italy

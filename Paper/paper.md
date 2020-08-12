@@ -47,7 +47,15 @@ Install it via pip using:
 ```python
     $ pip install ThermCoeff
 ```	
-For the fatigue life estimation from thermal acquisitions, `IR_FLife` module has been published. Time- and frequency-domain-based approaches are generally used to estimate the damage intensity occurred on a flexible structures under random loads. While the established spectral methods for the damage intensity identification give good results if high-dynamic range sensors (e.g, piezo accelerometers) are used, these methods have a relatively large uncertainty with considering small-dynamic-range sensors (e.g., thermal cameras). Moreover, the spatial information from a thermal camera can be used to obtain spatial damage-intensity information. Thus, based on the modal-decomposition theory, a modal damage-intensity identification based on the thermoelastic principle has been proposed `[@Capponi:2020]`. Due to the fact that the modal-damage-intensity method relies on the modal information at the natural frequency, the uncertainty is significantly reduced, if compared to classic spectral methods. More importantly, the damage intensity can be decomposed to particular mode shapes. With the modal damage information, the source of the damage is clearly revealed.  Install it via pip using:
+For the fatigue life estimation from thermal acquisitions, `IR_FLife` module has been published. Time- and frequency-domain-based approaches are generally used to estimate the damage intensity occurred on a flexible structures under random loads. While the established spectral methods for the damage intensity identification give good results if high-dynamic range sensors (e.g, piezo accelerometers) are used, these methods have a relatively large uncertainty with considering small-dynamic-range sensors (e.g., thermal cameras). Moreover, the spatial information from a thermal camera can be used to obtain spatial damage-intensity information. Thus, based on the modal-decomposition theory, a modal damage-intensity identification based on the thermoelastic principle has been proposed `[@Capponi:2020]`:
+\begin{equation}
+\Bar{D}_{r_{i,j}} = n_{r}\,\left(\frac{\Delta \sigma_{i,j}(\omega_r)}{B}\right)^k
+\end{equation}
+where the stress-amplitude spectrum~$\Delta \sigma_{i,j}(\omega_r)$ is defined as:
+\begin{equation}
+\Delta \sigma_{i,j}(\omega_r) = \mathscr{F}\Big{\{}\frac{\Delta T_{i,j}(t)}{K_m}\Big{\}}.
+\end{equation}
+Due to the fact that the modal-damage-intensity method relies on the modal information at the natural frequency, the uncertainty is significantly reduced, if compared to classic spectral methods. More importantly, the damage intensity can be decomposed to particular mode shapes. With the modal damage information, the source of the damage is clearly revealed. Install it via pip using:
 ```python
     $ pip install IR_FLife
 ```	

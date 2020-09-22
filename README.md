@@ -1,5 +1,7 @@
 # Thermoelasticity-based analysis: collection of python packages
 
+[![DOI](https://zenodo.org/badge/286753213.svg)](https://zenodo.org/badge/latestdoi/286753213)
+
 Thermoelasticity is a measurement techinque based on the thermoelastic effect, discovered by Weber in the 1830 and analytically described by Thomson in the 1853. If a structure is cyclically excited, its surface-temperature response variations are proportional to the change in the stress- and strain-tensor traces. As a non-contact, full-field and image-based measurement technique, multiple applications of thermoelasticity have been developed in recent years, as non-destructive testing, defects and material properties identification, stress-intensity factor definition and residual fatigue-life estimation. Due to this, four different python packages have been developed in order to allow to easily perform thermoelasticity-based data manipulation procedures.
 
 In order to open .sfmov file extension saved from the thermal camera software, `pysfmov` package has been published. It allows to get the raw data and the meta data informations from the acquisition files. Install it via pip using:
